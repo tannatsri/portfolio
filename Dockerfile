@@ -9,5 +9,5 @@ RUN hugo
 
 FROM nginx:alpine
 COPY --from=builder /site/public /usr/share/nginx/html
-EXPOSE 4416
+EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
