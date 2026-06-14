@@ -9,6 +9,5 @@ RUN hugo
 
 FROM nginx:alpine
 COPY --from=builder /site/public /usr/share/nginx/html
-COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 CMD ["nginx", "-g", "daemon off;"]
