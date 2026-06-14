@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Tanishq Srivastava</title>
+        <link>https://tannatsri.dev/page/</link>
+        <description>Recent content in Pages on Tanishq Srivastava</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://tannatsri.dev/page/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>About</title>
+            <link>https://tannatsri.dev/about/</link>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+            <guid>https://tannatsri.dev/about/</guid>
+            <description>&lt;h2 id=&#34;hey-im-tannat-&#34;&gt;Hey, I&amp;rsquo;m Tannat 👋&#xA;&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m a &lt;strong&gt;Software Engineer&lt;/strong&gt; with a focus on building scalable, reliable backend systems.&#xA;I enjoy working across the stack — from designing APIs and data pipelines to fine-tuning&#xA;infrastructure — but Go is where I feel most at home.&lt;/p&gt;&#xA;&lt;p&gt;When I&amp;rsquo;m not coding, you&amp;rsquo;ll find me planning the next road trip, writing about tech,&#xA;or deep-diving into distributed systems papers.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Backend&lt;/strong&gt; — Go · Python · Node.js · REST APIs · gRPC&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Infrastructure&lt;/strong&gt; — Docker · Kubernetes · PostgreSQL · Redis · Kafka&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt; — Git · Linux · Terraform · CI/CD&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&#xA;&lt;/h2&gt;&lt;h3 id=&#34;software-engineer--current-company-2022--present&#34;&gt;Software Engineer — Current Company &lt;em&gt;(2022 – Present)&lt;/em&gt;&#xA;&lt;/h3&gt;&lt;p&gt;Building high-throughput backend services in Go. Working on microservice architecture,&#xA;observability, and developer tooling.&lt;/p&gt;&#xA;&lt;h3 id=&#34;software-engineer--previous-company-2020--2022&#34;&gt;Software Engineer — Previous Company &lt;em&gt;(2020 – 2022)&lt;/em&gt;&#xA;&lt;/h3&gt;&lt;p&gt;Full-stack development with a focus on API design and performance optimisation.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;Education&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;B.Tech, Computer Science&lt;/strong&gt; — Your University &lt;em&gt;(2020)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in touch&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/tannatsri&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;github.com/tannatsri&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/tannatsri/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;linkedin.com/in/tannatsri&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a class=&#34;link&#34; href=&#34;mailto:tanishqsrivastava92@gmail.com&#34; &gt;tanishqsrivastava92@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+        </item><item>
+            <title>Archives</title>
+            <link>https://tannatsri.dev/archives/</link>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+            <guid>https://tannatsri.dev/archives/</guid>
+            <description></description>
+        </item><item>
+            <title>Projects</title>
+            <link>https://tannatsri.dev/projects/</link>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+            <guid>https://tannatsri.dev/projects/</guid>
+            <description>&lt;p&gt;A selection of projects I&amp;rsquo;ve worked on. Most are open source — feel free to dig into the code.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;portfolio-site&#34;&gt;Portfolio Site&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Hugo · Go · GitHub Pages&lt;/p&gt;&#xA;&lt;p&gt;This very site. A fast, statically-generated personal portfolio built with the Hugo Stack theme.&#xA;All personal details are driven from a single &lt;code&gt;data/config.yaml&lt;/code&gt; so updates take seconds.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tannatsri/portfolio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;View Source →&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;distributed-task-queue&#34;&gt;Distributed Task Queue&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Go · Redis · PostgreSQL&lt;/p&gt;&#xA;&lt;p&gt;A lightweight distributed task queue with at-least-once delivery guarantees, worker pools,&#xA;and a dead-letter queue for failed jobs. Built to handle high-throughput job scheduling&#xA;with minimal operational overhead.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tannatsri&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;GitHub →&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;api-gateway-middleware&#34;&gt;API Gateway Middleware&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Go · gRPC · Docker&lt;/p&gt;&#xA;&lt;p&gt;A composable middleware layer for Go HTTP/gRPC services — handles rate limiting,&#xA;request tracing, JWT validation, and structured logging with near-zero overhead.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tannatsri&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;GitHub →&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;travel-log-cli&#34;&gt;Travel Log CLI&#xA;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Stack:&lt;/strong&gt; Go · SQLite · Cobra&lt;/p&gt;&#xA;&lt;p&gt;A command-line tool for tracking travel destinations, budgets, and itineraries.&#xA;Exports data to Markdown for easy publishing to a static site.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/tannatsri&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;GitHub →&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;More projects on &lt;a class=&#34;link&#34; href=&#34;https://github.com/tannatsri&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;GitHub →&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Search</title>
+            <link>https://tannatsri.dev/search/</link>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+            <guid>https://tannatsri.dev/search/</guid>
+            <description></description>
+        </item></channel>
+</rss>

@@ -1,0 +1,48 @@
+# =====================================================
+# Personal configuration — edit this file to update
+# all your details across the entire site at once.
+# =====================================================
+
+name: "Tannat Srivastava"
+tagline: "Software Engineer · Traveler · Writer"
+email: "tanishqsrivastava92@gmail.com"
+location: "India"
+
+# Social links
+github: "https://github.com/tannatsri"
+linkedin: "https://www.linkedin.com/in/tannatsri/"
+twitter: "https://twitter.com/tannatsri"
+
+# About page
+headline: "Hey, I'm Tannat 👋"
+bio: |
+  I'm a Software Engineer with a passion for building scalable backend systems
+  and exploring new places. I write about technology, distributed systems,
+  and the occasional travel story.
+
+  Currently working on interesting problems in the Go ecosystem — from
+  microservices to developer tooling.
+
+skills:
+  - category: "Backend"
+    items: ["Go", "Python", "Node.js", "REST APIs", "gRPC"]
+  - category: "Infrastructure"
+    items: ["Docker", "Kubernetes", "PostgreSQL", "Redis", "Kafka"]
+  - category: "Tools"
+    items: ["Git", "Linux", "Terraform", "CI/CD"]
+
+experience:
+  - role: "Software Engineer"
+    company: "Current Company"
+    period: "2022 – Present"
+    description: "Building high-throughput backend services in Go."
+
+  - role: "Software Engineer"
+    company: "Previous Company"
+    period: "2020 – 2022"
+    description: "Full-stack development and API design."
+
+education:
+  - degree: "B.Tech, Computer Science"
+    school: "Your University"
+    year: "2020"

@@ -1,9 +1,5 @@
-module go-template
+module github.com/tannatsri/portfolio
 
-go 1.26.0
+go 1.21
 
-require (
-	github.com/gorilla/mux v1.8.1 // indirect
-	github.com/lib/pq v1.11.2 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
-)
+require github.com/CaiJimmy/hugo-theme-stack/v4 v4.0.0

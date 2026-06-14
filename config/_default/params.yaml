@@ -1,0 +1,43 @@
+# -------------------------------------------------------
+# Site-wide settings — edit this file to update your info
+# -------------------------------------------------------
+
+mainSections:
+  - post
+rssFullContent: true
+favicon: "img/avatar.png"
+
+# Sidebar
+sidebar:
+  emoji: "🚀"
+  subtitle: "Senior Software Engineer · Traveler · Writer"
+  avatar: "img/avatar.png"
+
+# Footer
+footer:
+  since: 2024
+
+# Article license shown at bottom of every post
+article:
+  license:
+    enabled: false
+
+# Homepage widgets order
+widgets:
+  homepage:
+    - type: categories
+      params:
+        limit: 10
+    - type: tag-cloud
+      params:
+        limit: 10
+  page:
+    - type: toc
+
+# Comments — disabled by default, enable and configure if needed
+comments:
+  enabled: false
+
+# Cookie consent — disabled
+cookies:
+  enabled: false
